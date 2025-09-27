@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @JuanSaenz89
-- 🌱 I’m currently learning Python and Django Framework
-- 📫 You can reach me in my mail j2saenzvaliente@gmail.com
+# 👋 Hi there, I'm Juan Saenz (@JuanSaenz89)
 
-<!---
-JuanSaenz89/JuanSaenz89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!  
+I'm passionate about software development and currently focused on:
+
+- 🌱 Learning **Python** and the **Django Framework**
+- 🛠️ Building projects to sharpen my skills
+
+Feel free to connect or reach out:
+
+- 📫 Email: [j2saenzvaliente@gmail.com](mailto:j2saenzvaliente@gmail.com)
+
+---
+
+> This repository is special because its `README.md` appears on my GitHub profile.  
+> Check out the Preview link to see my latest updates!
+s
