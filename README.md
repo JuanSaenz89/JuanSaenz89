@@ -12,5 +12,5 @@ Feel free to connect or reach out:
 
 ---
 
-# This repository is special because its `README.md` appears on my GitHub profile.  
-# Check out the Preview link to see my latest updates!
+<!-- This repository is special because its `README.md` appears on my GitHub profile.  
+Check out the Preview link to see my latest updates! --!>
